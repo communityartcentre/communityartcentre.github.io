@@ -1,10 +1,14 @@
 html,body {
     font-family: "Josefin Slab","Helvetica","Arial",sans-serif;
     font-weight: 600; 
+    background: #eff3f3;
+    color: #2c3e50;
 }
 h1,h2,h3,h4,h5,h6,h1 small,h2 small,h3 small,h4 small,h5 small,h6 small {
     font-family: "Abril Fatface","Helvetica","Arial",sans-serif;
 }
+
+
 .portfolio-header {
   position: relative;
   background-image: url(images/header-bg.jpg);
