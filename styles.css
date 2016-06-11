@@ -1,6 +1,6 @@
-*{font-family: "Abril Fatface","Helvetica","Arial",sans-serif;}
 html,body {
     font-family: "Josefin Slab","Helvetica","Arial",sans-serif;
+    font-weight: 600; 
 }
 h1,h2,h3,h4,h5,h6,h1 small,h2 small,h3 small,h4 small,h5 small,h6 small {
     font-family: "Abril Fatface","Helvetica","Arial",sans-serif;
