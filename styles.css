@@ -7,7 +7,10 @@ html,body {
 h1,h2,h3,h4,h5,h6,h1 small,h2 small,h3 small,h4 small,h5 small,h6 small {
     font-family: "Abril Fatface","Helvetica","Arial",sans-serif;
 }
-
+.mdl-card{
+    background: #eff3f3;
+    color: #2c3e50;
+}
 
 .portfolio-header {
   position: relative;
