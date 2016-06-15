@@ -4,4 +4,7 @@
 	src: local('SEGOEUIL'), url('./SEGOEUIL.woff') format('woff'), url('./SEGOEUIL.ttf') format('truetype');
 }
 /* Converting all font */
-*{font-family:SEGOEUIL !important;}
+*{
+	font-family:SEGOEUIL !important;
+	font-weight:bold !important;
+}
