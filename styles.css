@@ -1,3 +1,4 @@
+
 .mdl-card{
     background: #eff3f3;
     color: #2c3e50;
@@ -176,3 +177,44 @@ footer {
 p {
     font-size: 16px;
 }
+.writer-desc {
+  width: 100%;
+  padding:0px !important;
+  margin:0px !important;
+}
+.social-btn {
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  opacity: 0.46;
+  border-radius: 2px;
+}
+.social-btn__twitter {
+  background-image: url('https://www.gstatic.com/images/icons/material/system/2x/post_twitter_black_24dp.png');
+}
+.social-btn__blogger {
+  background-image: url('https://www.gstatic.com/images/icons/material/system/2x/post_facebook_black_24dp.png');
+}
+.social-btn__gplus {
+  background-image: url('https://www.gstatic.com/images/icons/material/system/2x/post_gplus_black_24dp.png');
+}
+
+.demo-card-image {
+  margin: 1%;
+}
+
+.demo-card-image > .mdl-card__actions {
+  height: 52px;
+  padding: 16px;
+  background: rgba(0, 0, 0, 0.2);
+}
+.demo-card-image__filename {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+}
+
